@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kainat Mujawar
-- 👀 I’m interested in Coding and Dancing
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
+- 👀 I'm a passionate Web Developer who loves building responsive and interactive web applications.
+- 🌱 Skilled in HTML, CSS, JavaScript, TypeScript, Reactjs, Node.js, and Next.js.
+- 💞️ Currently expanding my backend skills and exploring full-stack development! 
 - 📫 How to reach me Kainatmujawar09@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
